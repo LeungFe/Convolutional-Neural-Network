@@ -52,10 +52,11 @@
 
 原始图像nxn，用fxf的卷积核进行卷积，填充层数为p=1，步长s=1，卷积后得到的特征图大小为[(n+2xp-f)/s+1]x[(n+2xp-f)/s+1]（向下取整）。
 
-
 2.2、池化层
 
 2.2.1、最大池化层
+
+![1558420886(1)](https://github.com/LeungFe/Convolutional-Neural-Network/blob/master/images/1558420886(1).jpg)
 
 2.2.2、平均池化层
 
