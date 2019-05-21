@@ -72,3 +72,4 @@
 
 卷积神经网络中输出层的上游通常是全连接层，因此其结构和工作原理与传统前馈神经网络中的输出层相同。对于图像分类问题，输出层使用逻辑函数或归一化指数函数（softmax function）输出分类标签。在物体识别（object detection）问题中，输出层可设计为输出物体的中心坐标、大小和分类。在图像语义分割中，输出层直接输出每个像素的分类结果。
 
+![1558420979(1)](https://github.com/LeungFe/Convolutional-Neural-Network/blob/master/images/1558420979(1).jpg)
